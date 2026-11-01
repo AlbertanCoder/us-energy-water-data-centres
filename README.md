@@ -1,6 +1,11 @@
 # Who uses the most electricity and water — and where data centres sit
 
-An interactive one-pager plus two static charts, built from primary sources.
+**Live: <https://albertancoder.github.io/us-energy-water-data-centres/>**
+
+An interactive one-pager plus two static charts, built from primary sources (EIA, USGS, LBNL,
+company sustainability reports).
+
+![US electricity](output/fig1_electricity.png)
 
 **`energy_water.html`** — the interactive version. Single self-contained file (no CDN, no build step,
 works offline): open it in any browser.
