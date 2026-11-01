@@ -1,0 +1,56 @@
+chart,group,label,value,unit,year,source
+electricity,end-use sector,Residential (homes),1519.2,TWh,2025,EIA Electric Power Annual table 2.2
+electricity,end-use sector,"Commercial (offices, shops, data centres)",1503.3,TWh,2025,EIA Electric Power Annual table 2.2
+electricity,end-use sector,"Industrial (factories, refineries, mining)",1050.1,TWh,2025,EIA Electric Power Annual table 2.2
+electricity,end-use sector,"Transportation (transit, EV charging)",7.3,TWh,2025,EIA Electric Power Annual table 2.2
+electricity,manufacturing industry,Chemicals,149.9,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,"Primary metals (steel, aluminium)",99.5,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Food,79.6,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Plastics & rubber,70.5,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,"Nonmetallic minerals (cement, glass, lime)",61.8,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Paper,49.7,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Petroleum & coal refining,46.8,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,"Transportation equipment (vehicles, aerospace)",46.5,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Fabricated metal products,41.9,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,"Computer & electronics (semiconductors, servers)",27.9,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Machinery,22.2,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Wood products,20.2,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Beverages & tobacco,14.9,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Electrical equipment,11.8,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Miscellaneous,9.7,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Printing,9.2,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Textiles,8.7,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Textile products,3.0,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Apparel,0.5,TWh,2022,EIA MECS 2022 table 5.1
+electricity,manufacturing industry,Leather products,0.2,TWh,2022,EIA MECS 2022 table 5.1
+electricity,data centres,All US data centres,76.0,TWh,2018,LBNL 2024 report / 2025 Update
+electricity,data centres,All US data centres,176.0,TWh,2023,LBNL 2024 report / 2025 Update
+electricity,data centres,All US data centres,192.0,TWh,2024,LBNL 2024 report / 2025 Update
+electricity,company (self-reported),Google,43.6,TWh,2025,company sustainability report
+water,company (self-reported),Google,55.6,million m3 withdrawn,2025,company sustainability report
+water,company (self-reported),Google,41.1,million m3 consumed,2025,company sustainability report
+electricity,company (self-reported),Microsoft,37.0,TWh,FY2025 (Jul-Jun),company sustainability report
+water,company (self-reported),Microsoft,13.3,million m3 withdrawn,FY2025 (Jul-Jun),company sustainability report
+water,company (self-reported),Microsoft,8.2,million m3 consumed,FY2025 (Jul-Jun),company sustainability report
+electricity,company (self-reported),Meta,18.4,TWh,2024,company sustainability report
+water,company (self-reported),Meta,5.6,million m3 withdrawn,2024,company sustainability report
+water,company (self-reported),Meta,3.1,million m3 consumed,2024,company sustainability report
+electricity,company (self-reported),Alibaba,9.3,TWh,FY2026,company sustainability report
+water,company (self-reported),Alibaba,17.5,million m3 consumed,FY2026,company sustainability report
+electricity,company (self-reported),Equinix,8.3,TWh,2025,company sustainability report
+water,company (self-reported),Equinix,6.0,million m3 withdrawn,2025,company sustainability report
+water,company (self-reported),Equinix,4.6,million m3 consumed,2025,company sustainability report
+electricity,company (self-reported),Apple,3.7,TWh,FY2025,company sustainability report
+water,company (self-reported),Apple,6.8,million m3 consumed,FY2025,company sustainability report
+water,company (self-reported),Amazon,9.4,million m3 withdrawn,2025,company sustainability report
+water,category of use,Thermoelectric power plants (cooling water),133.0,Bgal/day withdrawn,2015,USGS Circular 1441
+water,category of use,Irrigation (crops),118.0,Bgal/day withdrawn,2015,USGS Circular 1441
+water,category of use,Public supply (homes & businesses),39.0,Bgal/day withdrawn,2015,USGS Circular 1441
+water,category of use,Self-supplied industrial (factories pumping their own),14.8,Bgal/day withdrawn,2015,USGS Circular 1441
+water,category of use,Aquaculture (fish farming),7.55,Bgal/day withdrawn,2015,USGS Circular 1441
+water,category of use,Mining,4.0,Bgal/day withdrawn,2015,USGS Circular 1441
+water,category of use,Self-supplied domestic (private wells),3.48,Bgal/day withdrawn,2015,USGS Circular 1441
+water,category of use,Livestock,2.0,Bgal/day withdrawn,2015,USGS Circular 1441
+water,data centres,direct consumption,66.0,billion litres/year,2023,LBNL 2024 report
+water,data centres,indirect consumption,800.0,billion litres/year,2023,LBNL 2024 report
+water,data centres,direct consumption,21.2,billion litres/year,2014,LBNL 2024 report

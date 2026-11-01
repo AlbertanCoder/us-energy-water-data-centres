@@ -1,0 +1,12 @@
+# Python / editor cruft
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# validation scratch files
+_check.js
+report.txt
+geom.txt
+output/dom*.html
+*.err

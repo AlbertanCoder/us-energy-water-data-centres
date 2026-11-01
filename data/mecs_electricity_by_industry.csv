@@ -1,0 +1,22 @@
+naics,label,million_kwh
+311,Food,79553
+312,Beverage and tobacco products,14896
+313,Textile mills,8677
+314,Textile product mills,2982
+315,Apparel,535
+316,Leather and allied products,242
+321,Wood products,20175
+322,Paper,49711
+323,Printing and related support,9177
+324,Petroleum and coal products,46754
+325,Chemicals,149928
+326,Plastics and rubber products,70536
+327,Nonmetallic mineral products,61841
+331,Primary metals,99469
+332,Fabricated metal products,41863
+333,Machinery,22232
+334,Computer and electronic products,27906
+335,"Electrical equip., appliances, and components",11784
+336,Transportation equipment,46455
+337,Furniture and related products,Q
+339,Miscellaneous,9673
